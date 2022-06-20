@@ -19,6 +19,4 @@ Here are some ideas to get you started:
    <a href="https://github.com/luishzortea"> 
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luishzortea&show_icons=true&theme=react&include_all_commits=true&count_private=true%22"> 
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishzortea&layout=compact&langs_count=7&theme=react"> 
-      
-![Snake animation](https://github.com/LuisHZortea/LuisHZortea/blob/output/github-contribution-grid-snake.svg)
 </div> 
