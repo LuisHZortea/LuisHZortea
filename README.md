@@ -1,6 +1,6 @@
 <h1 align="center"> Olá! Eu sou Luis Henrique Gomes Zortea 👋</h1>
 
-- ✏ Atualmente estou cursando Ciências da Computação na UVV.
+- ✏ Atualmente estou cursando Ciência da Computação na UVV.
 
 <!--
 **LuisHZortea/LuisHZortea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
