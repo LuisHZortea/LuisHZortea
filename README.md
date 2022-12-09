@@ -1,7 +1,7 @@
 <h1 align="center"> Olá! Eu sou Luis Henrique Gomes Zortea 👋</h1>
 
 - 🎓 Cursando Ciência da Computação na Universidade de Vila Velha (UVV).
-- 📖 HTML, CSS, JavaScript, SQL, C, & Java.
+- 📖 HTML, CSS, JavaScript, SQL, C, Python & Java.
 
 <div align="center"> 
    <a href="https://github.com/luishzortea"> 
