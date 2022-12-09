@@ -4,8 +4,8 @@
 
 <div align="center"> 
    <a href="https://github.com/luishzortea"> 
+   (https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luishzortea&show_icons=true&theme=react&include_all_commits=true&count_private=true%22"> 
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishzortea&layout=compact&langs_count=7&theme=react"> 
 </div> 
 
    <h3 align="left">Linguagens e Ferramentas:</h3>
